@@ -33,7 +33,7 @@ a{
     display: flex;
     justify-content: center;
     align-items: center;
-    box-shadow: 2px 2px 30px rgba(167, 158, 245, 50.2);
+    box-shadow: 2px 2px 30px rgba(167, 158, 245, 0.4);
     border-radius: 10% 10% 10% 10% / 50% 50% 50% 50%;
     box-sizing: border-box;
     z-index: 1;
